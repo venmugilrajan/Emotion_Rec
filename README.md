@@ -9,7 +9,7 @@ app_file: app_gradio.py
 pinned: false
 ---
 
-# 🎭 Real-Time Facial Emotion Recognition & AI Coach ⚡ 
+# 🎭 Real-Time Facial Emotion Recognition & AI Coach ⚡
 
 [![Python 3.8+](https://img.shields.io/badge/Python-3.8%2B-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 [![TensorFlow 2.x](https://img.shields.io/badge/TensorFlow-2.x-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)](https://www.tensorflow.org/)
